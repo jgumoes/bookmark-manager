@@ -4,6 +4,7 @@ ruby '2.6.5'
 
 gem 'puma'
 gem 'sinatra'
+gem 'pg'
 
 group :development do
   gem 'rack'

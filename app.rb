@@ -7,7 +7,7 @@ class BookmarkManager < Sinatra::Base
   end
 
   get "/bookmarks" do
-    @bookmarks = ["https://www.pictureofhotdog.com/about"]
+    @bookmarks = Bookmark.all
     
     erb :"bookmarks/index"
   end

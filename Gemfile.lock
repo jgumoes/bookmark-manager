@@ -31,6 +31,7 @@ GEM
     parallel (1.20.1)
     parser (3.0.0.0)
       ast (~> 2.4.1)
+    pg (1.2.3)
     public_suffix (4.0.6)
     puma (5.2.1)
       nio4r (~> 2.0)
@@ -100,6 +101,7 @@ PLATFORMS
 
 DEPENDENCIES
   capybara
+  pg
   puma
   rack
   rspec
@@ -114,4 +116,4 @@ RUBY VERSION
    ruby 2.6.5p114
 
 BUNDLED WITH
-   2.2.8
+   2.2.11
