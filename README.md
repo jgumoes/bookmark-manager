@@ -8,9 +8,11 @@ I would like to see a list of bookmarks.
 
 ![Show List Sequence Diagram](images/list_story.png)
 
+```language
 As a conoseiour of webpages,
 So that I can visit my favourite webpages,
 I'd like to be able to add new bookmarks.
+```
 
 As a weathered critic of internet pages,
 So that I can clear out the poorly-aged websites of my youth,
