@@ -20,22 +20,14 @@
           1,
           1,
           null,
-          null
-        ]
-      },
-      "/Users/jackgumoes/Makers/weekly challenges/bookmark_manger/lib/bookmark.rb": {
-        "lines": [
-          1,
           null,
           1,
           1,
-          2,
-          2,
+          217,
+          1,
+          1,
+          1,
           null,
-          0,
-          null,
-          2,
-          8,
           null,
           null
         ]
@@ -48,10 +40,10 @@
           1,
           1,
           1,
-          0,
+          1,
           null,
-          0,
-          0,
+          1,
+          1,
           null,
           null,
           null
@@ -63,11 +55,13 @@
           1,
           1,
           null,
-          1,
-          1,
-          1,
-          1,
           null,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
           1,
           null,
           1,
@@ -80,6 +74,6 @@
         ]
       }
     },
-    "timestamp": 1614183701
+    "timestamp": 1614265154
   }
 }
