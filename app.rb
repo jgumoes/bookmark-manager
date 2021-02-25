@@ -1,6 +1,8 @@
 require 'sinatra'
 require_relative 'lib/bookmark.rb'
 
+ENV['ENVIRONMENT'] = 'test'
+
 class BookmarkManager < Sinatra::Base
 
   get '/' do
@@ -9,6 +11,7 @@ class BookmarkManager < Sinatra::Base
 
   get "/bookmarks" do
     @bookmarks = Bookmark.all
+    # @bookmarks.each { |b| puts "#{b.title}:\t#{b.url}"}
     erb :"bookmarks/index"
   end
 
@@ -17,8 +20,8 @@ class BookmarkManager < Sinatra::Base
   end
 
   post '/bookmarks/add' do
-    # p params["url"]
-    Bookmark.create(params["url"])
+    p params["title"]
+    Bookmark.create(url: params["url"], title: params["title"])
     redirect "/bookmarks"
   end
 

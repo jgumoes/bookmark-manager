@@ -4,19 +4,23 @@
       "/Users/jackgumoes/Makers/weekly challenges/bookmark_manger/spec/bookmark_spec.rb": {
         "lines": [
           1,
-          null,
           1,
-          1,
-          1,
-          null,
           null,
           1,
           1,
           1,
           null,
+          null,
+          1,
+          1,
           1,
           null,
           1,
+          null,
+          1,
+          1,
+          null,
+          null,
           1,
           1,
           null,
@@ -25,6 +29,17 @@
           1,
           217,
           1,
+          null,
+          2,
+          null,
+          null,
+          1,
+          217,
+          1,
+          1,
+          null,
+          1,
+          1,
           1,
           1,
           null,
@@ -32,9 +47,21 @@
           null
         ]
       },
+      "/Users/jackgumoes/Makers/weekly challenges/bookmark_manger/spec/database_helpers.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null
+        ]
+      },
       "/Users/jackgumoes/Makers/weekly challenges/bookmark_manger/spec/features/adding_bookmarks_spec.rb": {
         "lines": [
           null,
+          1,
           1,
           1,
           1,
@@ -65,15 +92,15 @@
           1,
           null,
           1,
-          1,
-          1,
+          0,
+          0,
           null,
-          1,
+          null,
           null,
           null
         ]
       }
     },
-    "timestamp": 1614265154
+    "timestamp": 1614273430
   }
 }
