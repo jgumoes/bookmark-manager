@@ -44,6 +44,13 @@
           1,
           null,
           null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
           null
         ]
       },
@@ -76,6 +83,22 @@
           null
         ]
       },
+      "/Users/jackgumoes/Makers/weekly challenges/bookmark_manger/spec/features/deleting_a_bookmark_spec.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
       "/Users/jackgumoes/Makers/weekly challenges/bookmark_manger/spec/features/viewing_bookmarks_spec.rb": {
         "lines": [
           null,
@@ -92,8 +115,8 @@
           1,
           null,
           1,
-          0,
-          0,
+          1,
+          1,
           null,
           null,
           null,
@@ -101,6 +124,6 @@
         ]
       }
     },
-    "timestamp": 1614273430
+    "timestamp": 1614355994
   }
 }

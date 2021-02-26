@@ -39,4 +39,11 @@ describe 'Bookmark' do
       expect(bookmark.url).to eq rand_url
     end
   end
+
+  # context '#delete' do
+
+  #   it "deletes a bookmark" do
+      
+  #   end
+  # end
 end
